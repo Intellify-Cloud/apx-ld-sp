@@ -1,0 +1,18 @@
+nav:
+  - title: "About"
+    section: about
+    
+  - title: "Services"
+    section: textblock
+
+  - title: "Coaches"
+    section: team
+
+  - title: "Partners"
+    section: clients
+  
+  - title: "Testimonials"
+    section: testimonials
+
+  - title: "Contact"
+    url: /contact 
