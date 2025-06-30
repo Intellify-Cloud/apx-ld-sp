@@ -286,7 +286,7 @@ team:
 
       - name: "Julie Robinson"
         role: "Executive Coach & Industrial/Organisational Psychologist"
-        image: "assets/img/team/julie robinson.png"  # Adjust the image path as needed
+        image: "assets/img/team/Julie-Robinson.png"
         focus: "Julie brings a unique mindbody approach to leadership, self-awareness, and wellbeing, rooted in her belief that organisations transform only when individuals transform. Her approach is shaped by a deep connection to adventure and a journey through chronic illness, blending formal expertise with unconventional perspectives."
         qualifications:
           - "Registered Industrial/Organisational Psychologist with the HPCSA (Health Professions Council of South Africa)"
@@ -302,7 +302,7 @@ team:
 
       - name: "Vusi Kokela"
         role: "Executive Coach"
-        image: "assets/img/team/vusi kokela.png"  # Adjust the image path as needed
+        image: "assets/img/team/Vusi-Kokela.png"
         focus: "Empowering high-achieving leaders to unleash their potential, develop emotional intelligence, and create a more sustainable future through clarity, connection, confidence, and courage."
         qualifications:
           - "Certified Conscious Coaching Program facilitator"
