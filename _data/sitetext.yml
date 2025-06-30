@@ -190,7 +190,7 @@ team:
   people:
       - name: "Craig Stuart"
         role: "Executive Coach"
-        image: "assets/img/team/Craig Stuart.png"  # Adjust the image path as needed
+        image: "assets/img/team/Craig Stuart.png"
         focus: "Driven, authentic, and intentional, Craig is passionate about helping individuals and teams unlock their potential through increased self-awareness, emotional intelligence, and improved thinking."
         qualifications:
         - "Bachelor of Business Administration (Honours): IMM"
@@ -214,7 +214,7 @@ team:
 
       - name: "Célia Senekal"
         role: "Executive Coach"
-        image: "assets/img/team/celia senekal.png"  # Adjust image path as needed
+        image: "assets/img/team/Celia-Senekal.png"
         focus: "Helping individuals unlock their full potential through leadership development, career growth with purpose, and meaningful intelligence for stronger relationships and decision-making. Specialising in empowering individuals to navigate challenges, fostering team trust and collaboration, and strengthening communication for meaningful impact."
         qualifications:
         - "BA Corporate Communications"
@@ -235,7 +235,7 @@ team:
 
       - name: "Graham Kiggan"
         role: "Executive Coach"
-        image: "assets/img/team/graham kiggan.png"  # You can adjust the image path as needed
+        image: "assets/img/team/Graham-Kiggan.png"
         focus: "Passionate about coaching individuals to unlock their full potential and become leaders. Graham has helped organizations build strong teams with intentional cultures."
         qualifications:
           - "BSc Wits"
@@ -252,7 +252,7 @@ team:
 
       - name: "Bron Villet"
         role: "Mental Health & Behavioural Coach, Facilitator & Change Trainer"
-        image: "assets/img/team/bron villet.png"  # Adjust image path as needed
+        image: "assets/img/team/Bron-Villet.png"
         focus: "Specializes in leadership development, mental wellness in teams, and behavioural change in corporate environments. Bron helps organizations identify and resolve dysfunctional team dynamics, particularly during restructuring, mergers, and acquisitions."
         qualifications:
           - "Certified Behavioural Coach, SA College of Applied Psychology"
@@ -269,7 +269,7 @@ team:
 
       - name: "Candice King"
         role: "Breakthrough Life Coach"
-        image: "assets/img/team/candice king.png"  # Adjust image path as needed
+        image: "assets/img/team/Candice-King.png"
         focus: "Helping individuals discover and use their unique strengths to achieve personal and professional goals. Specializing in emotional intelligence (EQ), the Enneagram, and neuroscience-based life coaching."
         qualifications:
           - "NeuroLeadership Institute (Results Coaching Systems)"
